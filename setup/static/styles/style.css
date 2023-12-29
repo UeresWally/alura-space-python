@@ -244,6 +244,10 @@ table {
     font-size: 0.7rem;
 }
 
+.texto__pesquisa {
+    color: #FFFFFF;
+}
+
 .menu-lateral {
     padding-right: 1.5rem;
     box-sizing: border-box;
